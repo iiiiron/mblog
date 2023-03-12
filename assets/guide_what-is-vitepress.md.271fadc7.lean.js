@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./app.3c7605cb.js";import"./chunks/theme.b82bebbd.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"guide/what-is-vitepress.md"}'),a={name:"guide/what-is-vitepress.md"};function r(o,i,c,n,p,d){return s(),t("div")}const l=e(a,[["render",r]]);export{f as __pageData,l as default};
